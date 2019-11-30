@@ -1,0 +1,14 @@
+Package: LinearRegressionValues
+Title: Calulates values associated with simple and multiple linear regression.
+Version: 1.0.0
+Authors@R: 
+    person(given = "Christian",
+           family = "Lee",
+           role = c("aut", "cre"),
+           email = "Christiancal.lee@mail.utoronto.ca",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Generates a simple or multiple linear model based on the input formula using the lm function. The output includes values like ssreg, rss, sst, msreg, mse, etc. supported by test statistics and p-values based on the aforementioned values. 
+License: None
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
