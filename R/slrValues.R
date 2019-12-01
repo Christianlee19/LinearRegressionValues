@@ -1,8 +1,8 @@
 #' Simple linear regression value calculator
 #'
 #' Generates a  simple linear model and outputs associated values and statistics.
-#' @param y String response variable
-#' @param x String explanatory variable
+#' @param y Character response variable
+#' @param x Character explanatory variable
 #' @param df Dataframe
 #' @keywords slr, simple linear regression, sum of squares, ssreg, sse, rss, sxx
 #' @export
