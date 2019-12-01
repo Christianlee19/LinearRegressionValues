@@ -1,7 +1,7 @@
 #' Multiple linear regression value calculator
 #'
 #' Generates a multiple linear model and outputs associated values and statistics.
-#' @param formula String in the format of: "y~x"
+#' @param formula Character in the format of: "y~."
 #' @param df, Dataframe
 #' @keywords mlr, multiple linear regression, sum of squares, ssreg, sse, rss, sxx
 #' @export
